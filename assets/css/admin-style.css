@@ -1,0 +1,35 @@
+/* Stili personalizzati per l'area di amministrazione del plugin */
+
+.wrap h1 {
+    color: #0073aa;
+}
+
+.widefat {
+    margin-top: 20px;
+}
+
+.updated, .error {
+    margin-top: 20px;
+}
+
+#eas-progress-wrap {
+    margin-top: 20px;
+}
+
+#eas-progress-bar {
+    position: relative;
+}
+
+#eas-progress {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+select[multiple] {
+    height: auto;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
